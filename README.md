@@ -3,7 +3,7 @@
 ### I'm currently interested in GNN & MLOps
 
 #### Tech Stack
-![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker) <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white" /> <img src="https://img.shields.io/badge/Neo4j-018bff?style=for-the-badge&logo=neo4j&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
+![PyTorch](https://img.shields.io/badge/-PyTorch-000?&logo=PyTorch) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow) ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 
 #### Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hybyun0121&layout=compact)](https://github.com/hybyun0121/github-readme-stats)
