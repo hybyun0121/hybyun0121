@@ -3,6 +3,7 @@
 ### I'm currently interested in GNN & MLOps
 
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hybyun0121&layout=compact)](https://github.com/hybyun0121/github-readme-stats)
 <!--
 **hybyun0121/hybyun0121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
