@@ -1,4 +1,7 @@
-### Hi there 👋
+## Hi I'm DeepDog 🤙🤙
+  
+### I'm currently interested in GNN & MLOps
+
 
 <!--
 **hybyun0121/hybyun0121** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
