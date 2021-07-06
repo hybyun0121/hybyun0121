@@ -1,6 +1,6 @@
 ## Hi I'm DeepDog 🤙🤙
   
-### I'm currently interested in GNN & MLOps
+### I'm currently interested in GNN & Recommender System & MLOps
 🅽 [My Notion](https://www.notion.so/Deep-dog-48d119d1d42a45fc830328b92b4aab85)
 
 #### Tech Stack
